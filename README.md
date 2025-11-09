@@ -137,4 +137,14 @@ A bar chart (`model_comparison_plot.png`) was created comparing R² Scores for b
 
 ---
 
+
+## 📊 Model Performance Visualization
+
+The following plot compares the R² Scores of the models tested in Week 2:
+
+![Model Comparison Plot](model_comparison_plot.png)
+
+
+---
+
 > *“Week 2 successfully established the predictive backbone for the Green Policy Simulator — where data-driven insights meet policy innovation.”*
