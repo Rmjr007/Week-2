@@ -142,6 +142,11 @@ A bar chart (`model_comparison_plot.png`) was created comparing R² Scores for b
 
 The following plot compares the R² Scores of the models tested in Week 2:
 
+<p align="center">
+  <img src="images/model_comparison_plot.png" width="600">
+</p>
+
+
 ![Model Comparison Plot](model_comparison_plot.png)
 
 
